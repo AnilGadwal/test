@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b21902d.css",
+    "main.js": "/static/js/main.bc39fadf.js",
+    "index.html": "/index.html",
+    "static/media/Union8.svg": "/static/media/Union8.63a71cd872f8af0bb974.svg",
+    "static/media/Union1.svg": "/static/media/Union1.0af8ca6a938e394a26b9.svg",
+    "main.1b21902d.css.map": "/static/css/main.1b21902d.css.map",
+    "main.bc39fadf.js.map": "/static/js/main.bc39fadf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b21902d.css",
+    "static/js/main.bc39fadf.js"
+  ]
+}
