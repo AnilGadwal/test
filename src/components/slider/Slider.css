@@ -123,11 +123,11 @@
   }
 
   .thumb--right::-webkit-slider-thumb{
-    background: url('/Users/anil/test/src/assets/Union1.svg') no-repeat;
+    background: url('../../assets/Union1.svg') no-repeat;
   }
 
   .thumb--left::-webkit-slider-thumb{
-    background: url('/Users/anil/test/src/assets/Union8.svg') no-repeat;
+    background: url('../../assets/Union8.svg') no-repeat;
   }
 
   .right_value{
